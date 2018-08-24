@@ -6,7 +6,7 @@
       <p>Langsmith株式会社 共同創業者 取締役</p>
     </div>
     <section id=education class="section">
-      <div class="container">
+      <div class="container is-fluid">
         <div class="box">
           <h2 class="title is-4">Education</h2>
           <table class="table is-narrow">
@@ -21,7 +21,7 @@
       </div>
     </section>
     <section id=awards class="section">
-      <div class="container">
+      <div class="container is-fluid">
         <div class="box">
           <h2 class="title is-4">Award</h2>
           <table class="table is-narrow">
@@ -37,7 +37,7 @@
     </section>
 
     <section id=publications class="section">
-      <div class="container">
+      <div class="container is-fluid">
         <div class="box">
           <h2 class="title is-4">Publications</h2>
           <ol>
@@ -48,7 +48,7 @@
     </section>
 
     <section id=activities class="section">
-      <div class="container">
+      <div class="container is-fluid">
         <div class="box">
           <h2 class="title is-4">Activities</h2>
           <table class="table is-narrow">
